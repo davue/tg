@@ -53,7 +53,7 @@ Function_list (arguments are listed aside from cb_function and cb_extra, :
   chat_info (chat)
   user_info (user)
 
-  get_history (peer, limit)
+  get_history (peer, limit, offset)
   
   chat_add_user (chat, user)
   chat_del_user (chat, user)
