@@ -1,3 +1,5 @@
+This fork is just for small modifications needed for https://github.com/marcovr/T-Bot
+
 ## Telegram messenger CLI [![Build Status](https://travis-ci.org/vysheng/tg.png)](https://travis-ci.org/vysheng/tg)
 
 Command-line interface for [Telegram](http://telegram.org). Uses readline interface.
